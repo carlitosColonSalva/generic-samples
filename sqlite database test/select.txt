@@ -1,0 +1,2 @@
+.open testTable
+select some from dd;

@@ -1,0 +1,2 @@
+.open testTable
+update dd set some = values ();

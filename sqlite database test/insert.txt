@@ -1,0 +1,2 @@
+.open testTable
+insert into dd (some) values ();

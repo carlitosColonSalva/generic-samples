@@ -1,0 +1,2 @@
+.open testTable
+delete from dd where some = values ();
